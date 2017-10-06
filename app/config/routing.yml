@@ -1,0 +1,7 @@
+talan_twitter:
+    resource: "@TALANTwitterBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation

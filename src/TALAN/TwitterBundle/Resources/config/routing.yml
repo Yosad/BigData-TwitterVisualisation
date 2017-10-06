@@ -1,0 +1,6 @@
+talan_twitter_homepage:
+    path:     /home
+    defaults: { _controller: TALANTwitterBundle:Default:index }
+talan_twitter_carte:
+    path:     /carte
+    defaults: { _controller: TALANTwitterBundle:Default:carte }
